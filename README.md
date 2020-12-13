@@ -1,4 +1,4 @@
-# Garbage-Collector
+# Garbage Collector
 * This project is about implementing a customized garbage collector, by using C++ default pointers. In addition,verification of memory leakage is provided to confirm the correctness of implementing such a garbage collector.
 * In this project, a simple garbage collector pointer class has been implemented. The garbage collector basically uses three classes: `Pointer`, `PtrDetails` and `Iter`:
   * `Pointer` is the core garbage collector class, which implements a garbage-collection pointer
